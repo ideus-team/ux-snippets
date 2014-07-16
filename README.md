@@ -48,3 +48,5 @@ http://jessepollak.github.io/card/
 19. DataMaps: визуализация данных поверх карт при помощи Javascript - http://www.coolwebmasters.com/javascripts/3561-visualizing-data-over-maps-with-js-datamaps.html
 
 20. jsPDF: создание PDF-файлов при помощи JavaScript - http://www.coolwebmasters.com/javascripts/3197-create-pdf-files-with-js-jspdf.html
+
+21. Примеры меню для мобильных девайсах  http://mmenu.frebsite.nl/examples.html
