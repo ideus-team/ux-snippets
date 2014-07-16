@@ -44,3 +44,5 @@ http://jessepollak.github.io/card/
 17. Примеры повторений «Экспромптума» http://www.artlebedev.ru/tools/expromptum/repeats/
  
 18. Keyboard Shortcuts for Pagination http://osvaldas.info/keyboard-shortcuts-for-pagination
+
+19. DataMaps: визуализация данных поверх карт при помощи Javascript - http://www.coolwebmasters.com/javascripts/3561-visualizing-data-over-maps-with-js-datamaps.html
