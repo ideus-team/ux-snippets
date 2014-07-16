@@ -29,3 +29,14 @@ External scripts to improve UX
 
 13. Также плагин для формирования эффекта линзы для изображений: http://ruseller.com/adds.php?rub=11&id=2470
 Неплохой слайдер: http://ruseller.com/adds/adds2309/example/index6.html
+
+14. Обращение к встроеной поисковой системе сайта после добавления пробела и запрашеваемой информации в встроенную адресную строку сайта:
+
+<link rel="search" type="application/opensearchdescription+xml" title="Stack Overflow" href="/opensearch.xml" /> 
+
+15. Плагин для обрезки длинных комментариев по высоте блока http://dotdotdot.frebsite.nl/
+ 
+16. Примеры скриптов и интерфейсов для проверки (валидации) кредитных карт:
+http://creditcardjs.com/
+http://wangjohn.github.io/creditly/
+http://jquerycreditcardvalidator.com/ 
