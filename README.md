@@ -50,3 +50,5 @@ http://jessepollak.github.io/card/
 20. jsPDF: создание PDF-файлов при помощи JavaScript - http://www.coolwebmasters.com/javascripts/3197-create-pdf-files-with-js-jspdf.html
 
 21. Примеры меню для мобильных девайсах  http://mmenu.frebsite.nl/examples.html
+
+22. Load CSS  http://cssload.net/ru/
