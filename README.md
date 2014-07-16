@@ -52,3 +52,4 @@ http://jessepollak.github.io/card/
 21. Примеры меню для мобильных девайсах  http://mmenu.frebsite.nl/examples.html
 
 22. Load CSS  http://cssload.net/ru/
+23. bounce.js-CSS3 Animation Framework http://bouncejs.com/
