@@ -53,3 +53,7 @@ http://jessepollak.github.io/card/
 
 22. Load CSS  http://cssload.net/ru/
 23. bounce.js-CSS3 Animation Framework http://bouncejs.com/
+
+24. Система орфографического улучшения сайтов (работа пользователей сайта) http://orphus.ru/
+
+25. Плагин позволяющий копировать текст из сайта в буфер обмена http://www.steamdev.com/zclip/
