@@ -28,32 +28,34 @@ External scripts to improve UX
 12. Формирование непрямоугольных областей из jquery изображений: http://ruseller.com/adds.php?rub=11&id=2524
 
 13. Также плагин для формирования эффекта линзы для изображений: http://ruseller.com/adds.php?rub=11&id=2470
-Неплохой слайдер: http://ruseller.com/adds/adds2309/example/index6.html
 
-14. Обращение к встроеной поисковой системе сайта после добавления пробела и запрашеваемой информации в встроенную адресную строку сайта:
+14. Неплохой слайдер: http://ruseller.com/adds/adds2309/example/index6.html
+
+15. Обращение к встроеной поисковой системе сайта после добавления пробела и запрашеваемой информации в встроенную адресную строку сайта:
 ```<link rel="search" type="application/opensearchdescription+xml" title="Stack Overflow" href="/opensearch.xml" /> ```
 
-15. Плагин для обрезки длинных комментариев по высоте блока http://dotdotdot.frebsite.nl/
+16. Плагин для обрезки длинных комментариев по высоте блока http://dotdotdot.frebsite.nl/
  
-16. Примеры скриптов и интерфейсов для проверки (валидации) кредитных карт:
-http://creditcardjs.com/
-http://wangjohn.github.io/creditly/
-http://jquerycreditcardvalidator.com/ 
-http://jessepollak.github.io/card/
+17. Примеры скриптов и интерфейсов для проверки (валидации) кредитных карт:
+  * http://creditcardjs.com/
+  * http://wangjohn.github.io/creditly/
+  * http://jquerycreditcardvalidator.com/ 
+  * http://jessepollak.github.io/card/
 
-17. Примеры повторений «Экспромптума» http://www.artlebedev.ru/tools/expromptum/repeats/
- 
-18. Keyboard Shortcuts for Pagination http://osvaldas.info/keyboard-shortcuts-for-pagination
+18. Примеры повторений «Экспромптума» http://www.artlebedev.ru/tools/expromptum/repeats/
 
-19. DataMaps: визуализация данных поверх карт при помощи Javascript - http://www.coolwebmasters.com/javascripts/3561-visualizing-data-over-maps-with-js-datamaps.html
+19. Keyboard Shortcuts for Pagination http://osvaldas.info/keyboard-shortcuts-for-pagination
 
-20. jsPDF: создание PDF-файлов при помощи JavaScript - http://www.coolwebmasters.com/javascripts/3197-create-pdf-files-with-js-jspdf.html
+20. DataMaps: визуализация данных поверх карт при помощи Javascript - http://www.coolwebmasters.com/javascripts/3561-visualizing-data-over-maps-with-js-datamaps.html
 
-21. Примеры меню для мобильных девайсах  http://mmenu.frebsite.nl/examples.html
+21. jsPDF: создание PDF-файлов при помощи JavaScript - http://www.coolwebmasters.com/javascripts/3197-create-pdf-files-with-js-jspdf.html
 
-22. Load CSS  http://cssload.net/ru/
-23. bounce.js-CSS3 Animation Framework http://bouncejs.com/
+22. Примеры меню для мобильных девайсах  http://mmenu.frebsite.nl/examples.html
 
-24. Система орфографического улучшения сайтов (работа пользователей сайта) http://orphus.ru/
+23. Load CSS  http://cssload.net/ru/
 
-25. Плагин позволяющий копировать текст из сайта в буфер обмена http://www.steamdev.com/zclip/
+24. bounce.js-CSS3 Animation Framework http://bouncejs.com/
+
+25. Система орфографического улучшения сайтов (работа пользователей сайта) http://orphus.ru/
+
+26. Плагин позволяющий копировать текст из сайта в буфер обмена http://www.steamdev.com/zclip/
